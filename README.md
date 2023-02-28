@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrewhj
 - 👀 I’m interested in Functional languages and backend development
-- 🌱 I’m currently learning Elm, Scala, F#
+- 🌱 I’m currently learning Elm, Scala, F#, Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
